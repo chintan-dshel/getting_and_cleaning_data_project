@@ -19,4 +19,7 @@ run_analysis.R performs all the data preparation steps required in assignment
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 finally, tidy_data.txt is the exported final data after going through all the sequences described above.
+<<<<<<< HEAD
 
+=======
+>>>>>>> a51afcb0cfbc1f71549d70d7af61016206076abc
